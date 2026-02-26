@@ -35,7 +35,4 @@
 
 ---
 
-## 📊 GitHub 统计
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=default&hide_border=false&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=ffffff" />
-</div>
+
